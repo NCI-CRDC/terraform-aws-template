@@ -18,5 +18,5 @@ jobs:
           output-file: README.md
           output-method: inject
           git-push: "true"
-          indentation: 1
+          indention: 1
           recursive: true 
