@@ -1,5 +1,5 @@
-name: 
-run-name:
+name: Terraform Documentation
+run-name: Update Terraform Documentation
 on: pull_request 
 jobs:
   terraform-documentation:
