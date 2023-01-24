@@ -19,4 +19,4 @@ jobs:
           output-method: inject
           git-push: "true"
           indention: 1
-          recursive: true 
+          recursive: false
