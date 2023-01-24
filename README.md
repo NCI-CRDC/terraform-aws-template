@@ -8,7 +8,9 @@ A repository template for creating reusable terraform modules to support infrast
 <!-- BEGIN_TF_DOCS -->
 # Requirements
 
-No requirements.
+| Name | Version |
+|------|---------|
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | ~> 4.0 |
 
 # Providers
 
@@ -16,7 +18,9 @@ No providers.
 
 # Modules
 
-No modules.
+| Name | Source | Version |
+|------|--------|---------|
+| <a name="module_this"></a> [this](#module\_this) | ../ | n/a |
 
 # Resources
 
