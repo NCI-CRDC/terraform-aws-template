@@ -18,9 +18,7 @@ No providers.
 
 # Modules
 
-| Name | Source | Version |
-|------|--------|---------|
-| <a name="module_this"></a> [this](#module\_this) | ../ | n/a |
+No modules.
 
 # Resources
 
