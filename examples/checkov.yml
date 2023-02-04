@@ -1,0 +1,14 @@
+# A configuration file to manage Checkov infrastructure-as-code scans
+directory: 
+  - examples
+download-external-modules: true 
+external-modules-download-path: .external_modules
+evaluate-variables: true 
+framework: terraform
+soft-fail: true 
+output: sarif
+quiet: true
+repo_root_for_plan_enrichment: examples
+# skip-check:
+#   - CKV_DOCKER_3
+#   - CKV_DOCKER_2
