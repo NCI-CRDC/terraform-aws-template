@@ -8,7 +8,6 @@ framework: terraform
 soft-fail: true 
 output: sarif
 quiet: true
-repo_root_for_plan_enrichment: examples
 # skip-check:
 #   - CKV_DOCKER_3
 #   - CKV_DOCKER_2
